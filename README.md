@@ -1,5 +1,5 @@
-**Nama**: M Dimas Daniswara Putra
-**NIM**: 22552011263
+**Nama**: M Dimas Daniswara Putra<br>
+**NIM**: 22552011263<br>
 **Kelas**: TIF RP 22 CNS
 
 # 📘 Data Mahasiswa - Laravel 11 CRUD
@@ -7,7 +7,7 @@ Aplikasi manajemen data mahasiswa berbasis Laravel 11, mencakup fitur **CRUD** s
 
 ## 🖼️ 1. Halaman Utama (Daftar Mahasiswa)
 Menampilkan seluruh data mahasiswa dari database dalam bentuk tabel.
-![Halaman Utama](public/screenshot/Screenshot 2025-07-02 233901.png)
+![Halaman Utama](<public/screenshot/Screenshot 2025-07-02 233901.png>)
 
 ## ➕ 2. Form Tambah Data Mahasiswa
 Form isian untuk menambahkan data baru.
